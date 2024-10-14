@@ -1,2 +1,2 @@
-# Hello my friends, welcome to my GitHub !! 
+# Hello my friends!!
 ![Header](./photo/2.gif)
