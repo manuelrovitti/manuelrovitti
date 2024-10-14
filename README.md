@@ -5,7 +5,7 @@
 - 📫 How to reach me ... ez : 
   -  email: manuelrovitti@gmail.com 
 - ![alt text][logo]
-[logo]: https://github.com/manuelrovitti/Idea#:~:text=34%20Commits-,Logo.jpg,-Rename%20Design.jpg
+[logo]: https://github.com/manuelrovitti/Idea/blob/main/Logo.jpg "logo text"
 <!---
 manuelrovitti/manuelrovitti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
