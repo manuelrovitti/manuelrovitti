@@ -1,4 +1,5 @@
 ![Header](./github_banner.png)
+![Header](./1.gif)
 # 👋 Hi, I’m Manuel Rovitti
 - 👀 I’m interested in computer science and art in all its forms ;
 - 🌱 I’m currently talking the Computer Science course at the University of Perugia, but as a " real " programmer I'm self-taught;
