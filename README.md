@@ -3,9 +3,9 @@
 - 🌱 I’m currently talking the Computer Science course at the University of Perugia, but as a " real " programmer I'm self-taught;
 - 💞️ I'm currently working on some small project for my University, but I would be very happy to collaborate with someone so as to learn more and more;
 - 📫 How to reach me ... ez : 
-  -  email: manuelrovitti@gmail.com 
-- ![alt text][logo]
-[logo]: https://github.com/manuelrovitti/Idea/blob/main/Logo.jpg "logo text"
+  -  email: manuelrovitti@gmail.com
+
+
 <!---
 manuelrovitti/manuelrovitti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
