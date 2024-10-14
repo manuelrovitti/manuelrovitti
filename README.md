@@ -5,7 +5,6 @@
 - 📫 How to reach me ... ez : 
   -  email: manuelrovitti@gmail.com
 
-![Uploading Design.jpg…]()
 
 <!---
 manuelrovitti/manuelrovitti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
