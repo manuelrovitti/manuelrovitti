@@ -1,5 +1,5 @@
 
-<span style="font-family: 'Arial'; color: yellow;"> #Hello my frriends </span>
+<span style="font-family: 'Arial'; color: yellow;">Hello my friends</span>
   ![Header](./1.gif)
 # 👋 Hi, I’m Manuel Rovitti
 - 👀 I’m interested in computer science and art in all its forms ;
