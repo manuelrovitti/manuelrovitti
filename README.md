@@ -1,4 +1,4 @@
-#Hello my friends !!
+# Hello my friends !!
 ![Header](./2.gif)
 # 👋 Hi, I’m Manuel Rovitti
 - 👀 I’m interested in computer science and art in all its forms ;
