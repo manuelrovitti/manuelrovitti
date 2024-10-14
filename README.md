@@ -1,6 +1,5 @@
-
-<span style="font-family: 'Arial'; color: yellow;">Hello my friends</span>
-  ![Header](./1.gif)
+#Hello my friends !!
+![Header](./2.gif)
 # 👋 Hi, I’m Manuel Rovitti
 - 👀 I’m interested in computer science and art in all its forms ;
 - 🌱 I’m currently talking the Computer Science course at the University of Perugia, but as a " real " programmer I'm self-taught;
