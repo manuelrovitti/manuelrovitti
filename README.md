@@ -1,2 +1,2 @@
-# Hello my friends !! ![Header](./photo/2pacman.gif)
+# Hello my friends !! ![Header](./photo/pacman.gif)
 ![Header](./photo/2.gif)
